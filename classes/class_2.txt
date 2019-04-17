@@ -4,7 +4,7 @@ Attributes:
 
 Name (string)
 Description (string)
-Price (integer)
+Price (float)
 Item Number (integer)
 Ingredients (array)
 
@@ -16,4 +16,4 @@ Add_To_Ticket (Uses the price attribute to add the item ordered to the guests ti
 
 Modify_Item_Add (References the ingredients attribute and adds additional ingredients desired by the guest)
 
-Modify_Item_remove(References the ingredients attribute and removes ingredients from the array that are not desired by the guest)
+Modify_Item_Remove (References the ingredients attribute and removes ingredients from the array that are not desired by the guest)
