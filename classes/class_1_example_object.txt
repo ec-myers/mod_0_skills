@@ -1,0 +1,13 @@
+Table_4
+
+Number of Guests: 6
+
+Waitress: Jeannie R.
+
+Occupied: False
+
+Set_Table: 6 place settings will be set on this table
+
+Is_Table_Empty: True. The table is not occupied so this will return a true value.
+
+Seat_Table: This will set the values for Occupied to True.
