@@ -8,7 +8,7 @@ Arrive at the Restaurant
 
 Choose what food to order   
   - Browse the menu
-   - Look at items for the correct time of day
+    - Look at items for the correct time of day
     - Check the price for each item
   - Select the items you would like to order
    - Remember these items until it is your turn to order from the cashier
