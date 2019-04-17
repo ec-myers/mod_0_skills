@@ -1,0 +1,15 @@
+All American Burger
+
+Name: Beef Hamburger
+
+Description: "A quarter pound of beef sandwiched between two perfectly toasted buns"
+
+Price: 11
+
+Cook_Menu_Item: ["beef patty", "american cheese", "lettuce", "tomato", "pickle", "onion", "avocado"]
+
+Add_To_Ticket: Adds 11 dollars to the ticket for this guest
+
+Modify_Item_Add: Adds "avocado" to the array for ingredients because the guest has requested to add this item
+
+Modify_Item_Remove: Removes "mayo" from the ingredients array because the guest has requested to remove this item
