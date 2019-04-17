@@ -1,0 +1,15 @@
+Class: Table
+
+Attributes:
+
+Number of guests (integer)
+Waitress (string)
+Occupied (boolean)
+
+Methods:
+
+Set_Table (References the number of guests attribute to put the right number of silverware, plates, cup on the table)
+
+Is_Table_Empty (Uses the occupied attribute to find out if the table is occupied or not)
+
+Seat_Table (References the number of guests attribute to seat the table with the correct number of guests and sets the occupied attribute to true)
